@@ -1,6 +1,6 @@
 """
 
-Program Name: Assignment 5
+Program Name: Blackjack.py
 @author: Lance Doyle
 Date created: March 31 / 2021
 Purpose: This program is an interactive game of Blackjack
